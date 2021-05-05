@@ -2,7 +2,8 @@
 ===
 ## Trailer
 ![캡처](https://user-images.githubusercontent.com/65494409/117143060-5e8ab300-adeb-11eb-93c6-b09e12429951.PNG)
-![sdffsd](https://user-images.githubusercontent.com/65494409/117143066-60547680-adeb-11eb-93a9-7de7c506d718.PNG)
+![캡처ddd](https://user-images.githubusercontent.com/65494409/117143237-94c83280-adeb-11eb-800d-741c9d2fe7a3.PNG)
+
 
 
 
