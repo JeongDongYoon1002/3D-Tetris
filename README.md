@@ -1,6 +1,6 @@
 3-D Space Tetris : Computer graphics team project
 ===
-## IMG
+## Image
 ![캡처](https://user-images.githubusercontent.com/65494409/117143060-5e8ab300-adeb-11eb-93c6-b09e12429951.PNG)
 
 
